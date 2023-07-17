@@ -23,7 +23,7 @@
        printf("\n\n 2] DISP ");
        printf("\n\n 3] PEEK ");
        printf("\n\n 4] POP ");
-       printf("\n\n 5] EXIT ");
+       printf("\n\n 5] EXIT fn ");
 
        printf("\n\n Enter your choice : ");
 	   scanf("%d" , &choice);
